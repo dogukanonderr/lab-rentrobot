@@ -1,6 +1,6 @@
 # Labirent Robot
 
-Pygame kütüphanesi kullanılarak hazırlanmış basit bir labirent oyunu:.
+Pygame kütüphanesi kullanılarak hazırlanmış basit bir labirent oyunu.
 
 Topkapı üniversitesi için taslak olarak hazırlanmıştır
 
